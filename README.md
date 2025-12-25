@@ -1,3 +1,3 @@
 # demo
 This is my first git Repository
-Author - Akansha Vibhakaran 
+Author - Akansha Vibhakaran (Java Developer)
